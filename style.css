@@ -1,3 +1,5 @@
- <Group description="Header">
-     <Variable name="header.background.color" description="Background Color" type="color"
-         default="#fffff" variants="#fffff" value="#fffff"/>
+#flipcard-navigation,
+#flipcard .flipcard-menu,
+#header ul.tabs {
+display: none !important;
+}
